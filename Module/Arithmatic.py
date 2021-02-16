@@ -11,5 +11,5 @@ def Multiplication(a,b):
  return ans
 
 def Division(a,b):
- Ans=a/b
- return Ans
+ ans=a/b
+ return ans
