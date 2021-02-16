@@ -11,4 +11,4 @@ print("id of z:",id(z))
 
 
 z=z+1
-print("id of z:",id(z))#id will change because now y and z not reffering to same value i.e 11 now z having value 13
+print("id of z:",id(z))#id is changed because now y and z not reffering to same value i.e 11 now z having value 13 and y having value 12 both are reffereing to different values
