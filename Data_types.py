@@ -26,14 +26,14 @@ f=[10,20,30,40,50]#list
 print("\nvalue of d=:",f)
 print("type of c:",type(f))
 
-g=(10,20,30,40)#tuple
+g=(10,20,30,40)#set
 print("\nvalue of g=:",g)
 print("type of g:",type(g))
 
-h={10,20,30,40,}#dictionary
+h={10,20,30,40}#tuple
 print("\nvalue of h=:",h)
 print("type of h:",type(h))
 
-i={"a":10,"b":20,"c":30}
+i={"a":10,"b":20,"c":30}#dictionary
 print("\nvalue of i=:",i)
 print("type of i:",type(i))
