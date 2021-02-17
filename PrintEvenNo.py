@@ -1,9 +1,9 @@
 ef main():
- icnt=1
- while icnt<21:
-  if icnt%2==0:
-  	print(icnt)
-  icnt=icnt+1	
+ no=1
+ while no<21:
+  if no%2==0:
+  	print(no)
+  no=no+1	
 
 
 
