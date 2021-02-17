@@ -13,8 +13,6 @@ def main():
   print("True")
  else:
   print("False")
- #print("{} is divisible by 5".format(no))
- #print("{} is not divisible by 5".format(no))
 
 if __name__=="__main__":
  main()
