@@ -1,5 +1,5 @@
 def main():
- print("Enter Number")
+ print("Enter Number:")
  no=int(input())
  for i in range(no):
   for i in range(no):
